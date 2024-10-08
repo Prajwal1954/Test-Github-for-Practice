@@ -1,0 +1,33 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="3oIRrZ6VC8cx_1cRvmi7">
+    <mxGraphModel dx="1034" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="450" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-4" value="Hydreabad" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="125" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-5" value="&lt;span&gt;Chennai&lt;/span&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="125" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-7" value="Bangalore&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="425" y="125" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-8" value="&lt;span&gt;Mumbai&lt;/span&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="125" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyaRHNZlF_WIwubJCHpY-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-13" value="&lt;span&gt;Users&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.users;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
