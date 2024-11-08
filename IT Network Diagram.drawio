@@ -4,28 +4,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OyaRHNZlF_WIwubJCHpY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="450" height="65" as="geometry" />
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="119" width="440" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="OyaRHNZlF_WIwubJCHpY-4" value="Hydreabad" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="490" y="125" width="30" height="35" as="geometry" />
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Hydreabad&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;" parent="1" vertex="1">
+          <mxGeometry x="480" y="125" width="30" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="OyaRHNZlF_WIwubJCHpY-5" value="&lt;span&gt;Chennai&lt;/span&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="560" y="125" width="30" height="35" as="geometry" />
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Chennai&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;" parent="1" vertex="1">
+          <mxGeometry x="570" y="125" width="30" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="OyaRHNZlF_WIwubJCHpY-7" value="Bangalore&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="425" y="125" width="30" height="35" as="geometry" />
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Bangalore&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;" parent="1" vertex="1">
+          <mxGeometry x="380" y="125" width="30" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="OyaRHNZlF_WIwubJCHpY-8" value="&lt;span&gt;Mumbai&lt;/span&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="620" y="125" width="30" height="35" as="geometry" />
+        <mxCell id="OyaRHNZlF_WIwubJCHpY-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Mumbai&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon4;" parent="1" vertex="1">
+          <mxGeometry x="660" y="125" width="30" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="OyaRHNZlF_WIwubJCHpY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyaRHNZlF_WIwubJCHpY-13">
+        <mxCell id="skTQxKo-WGZQqTl3Iy4T-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="skTQxKo-WGZQqTl3Iy4T-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="150" as="targetPoint" />
+            <mxPoint x="310" y="154.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OyaRHNZlF_WIwubJCHpY-13" value="&lt;span&gt;Users&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.users;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="130" width="50" height="40" as="geometry" />
+        <mxCell id="skTQxKo-WGZQqTl3Iy4T-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" parent="1" vertex="1">
+          <mxGeometry x="100" y="125" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="skTQxKo-WGZQqTl3Iy4T-7" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;&lt;i&gt;ONE NETWORK - Application Landscape&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="65" y="20" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="skTQxKo-WGZQqTl3Iy4T-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Users&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="180" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
